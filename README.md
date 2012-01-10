@@ -7,4 +7,23 @@
 + God is a verb -- Bucky Fuller
 + Everything is ephemeral -- Digital documents should decay or evolve over time.
 + Technology must mimick nature and human experience if needs to relate to people.
-+ Everything is connected. 
++ Everything is connected.
+
+### Technology
+
+Everything is relative to the viewer. -- Client side processing, relevant to user. Content itself is shaped by viewer.
+
+
+Capture as many stimuli about an experience as possible:
+1. Location.
+2. Visual Aspects.
+3. Sound.
+4. Thoughts.
+5. Environment variables -- time, season, temperature, etc.(that which has no effect on technology but profoundly influences human experience)
+
+
+
+<del>Decay</del>Evolution of the experience.
+
+
+
