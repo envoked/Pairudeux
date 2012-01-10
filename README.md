@@ -22,7 +22,7 @@ Capture as many stimuli about an experience as possible:
 4. Thoughts.
 5. Environment variables -- time(time of day), season, temperature, etc.(that which has no effect on technology but profoundly influences human experience)
 
-#### Captured in real time. Necesity for mobile
+#### Captured in real time. Necessity for mobile
 
 
 <del>Decay</del>Evolution of the experience.
