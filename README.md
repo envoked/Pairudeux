@@ -15,11 +15,12 @@ Everything is relative to the viewer. -- Client side processing, relevant to use
 
 
 Capture as many stimuli about an experience as possible:
+
 1. Location.
 2. Visual Aspects.
 3. Sound.
 4. Thoughts.
-5. Environment variables -- time, season, temperature, etc.(that which has no effect on technology but profoundly influences human experience)
+5. Environment variables -- time(time of day), season, temperature, etc.(that which has no effect on technology but profoundly influences human experience)
 
 
 
